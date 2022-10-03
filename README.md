@@ -15,3 +15,5 @@ save the file
 stage the file
 commit the file and write a message
 push to github
+
+add more text to the file and stage it again
