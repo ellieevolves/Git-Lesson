@@ -17,3 +17,4 @@
 * push to github
 
 * add more text to the file and stage it again
+* adding changes in the github web interface
